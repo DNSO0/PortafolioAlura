@@ -276,6 +276,15 @@ h1{
 .contacto button:hover i{
     color: black;
 }
+.contacto__formulario{
+    display: flex;
+    flex-direction: column;
+}
+.contacto__campo{
+    
+    border-radius: 5px;
+    margin-top: 10px;
+}
 
 /* Footer */
 footer{
